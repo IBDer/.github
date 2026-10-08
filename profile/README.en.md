@@ -17,6 +17,7 @@ Starting with real patient questions, we turn research, design, and technology i
 [Explore research](https://github.com/IBDer/research) · [Propose a question](https://github.com/IBDer/research/issues/new/choose) · [View the roadmap](https://github.com/IBDer/.github/blob/main/ROADMAP.md) · [Contribute](https://github.com/IBDer/.github/blob/main/CONTRIBUTING.md)
 
 </div>
+
 ---
 
 ## Why IBDer?
