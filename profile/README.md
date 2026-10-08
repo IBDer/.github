@@ -18,7 +18,7 @@ IBDer 是一个以患者为先的开源社区。我们希望把分散的炎症�
 
 ### 当前阶段
 
-我们会先发布调研方法与主题研究，再逐步开放数据规范、应用和集成能力。项目仍处于早期阶段，欢迎患者、照护者、临床与科研人员、设计师和开发者参与讨论。
+我们会先发布调研方法与主题研究，再逐步开放数据规范、应用和集成能力。项目仍处于早期阶段，欢迎患者、照护者、临床与科研人员、设计师和开发者参与讨论。具体顺序与边界见[公开路线图](../ROADMAP.md)。
 
 ### 安全边界
 
@@ -50,7 +50,7 @@ IBDer is a patient-first open-source community. We turn fragmented information, 
 
 ### Current stage
 
-We will publish our research methods and topic reviews first, followed by open specifications, applications, and integrations. IBDer is at an early stage, and we welcome patients, caregivers, clinicians, researchers, designers, and developers.
+We will publish our research methods and topic reviews first, followed by open specifications, applications, and integrations. IBDer is at an early stage, and we welcome patients, caregivers, clinicians, researchers, designers, and developers. See the [public roadmap](../ROADMAP.md) for sequencing and boundaries.
 
 ### Safety boundaries
 
@@ -66,4 +66,3 @@ We do not collect or publish identifiable patient information, and we do not reu
 - Share patient perspectives respectfully while protecting personal privacy
 
 Before contributing, please read our [contribution guide](../CONTRIBUTING.md), [research publication policy](../RESEARCH_POLICY.md), and [code of conduct](../CODE_OF_CONDUCT.md).
-
