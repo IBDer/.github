@@ -1,0 +1,44 @@
+name: "Research question / 研究问题"
+description: "Propose a question for open research. / 提议一个开放调研问题。"
+title: "[Research]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        IBDer does not provide diagnosis or individualized treatment advice. Describe the general research question without sharing identifiable health information.
+
+        IBDer 不提供诊断或个体化治疗建议。请描述一般性研究问题，不要分享可识别的健康信息。
+  - type: textarea
+    id: question
+    attributes:
+      label: "Research question / 研究问题"
+      description: "Write one focused, answerable question. / 请提出一个聚焦、可回答的问题。"
+    validations:
+      required: true
+  - type: textarea
+    id: importance
+    attributes:
+      label: "Why it matters / 为什么重要"
+      description: "Who could use the answer, and for what decision or understanding? / 谁会使用这个答案？它帮助理解或决定什么？"
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: "Suggested scope / 建议范围"
+      description: "Population, exposure or intervention, outcome, timeframe, and exclusions if known. / 如已知，请说明人群、暴露或干预、结局、时间范围和排除项。"
+  - type: textarea
+    id: sources
+    attributes:
+      label: "Known sources / 已知来源"
+      description: "Add DOI, PMID, registry ID, guideline URL, or other stable links. / 请提供 DOI、PMID、注册号、指南链接或其他稳定链接。"
+  - type: checkboxes
+    id: boundaries
+    attributes:
+      label: "Safety and privacy / 安全与隐私"
+      options:
+        - label: "This is a general research question, not a request for personal medical advice. / 这是一般性研究问题，不是个人医疗咨询。"
+          required: true
+        - label: "I have not included identifiable patient information. / 我没有提交可识别的患者信息。"
+          required: true
+
