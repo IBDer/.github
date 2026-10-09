@@ -1,0 +1,25 @@
+title: "[工具提案] "
+labels:
+  - tool-proposal
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 要解决什么问题？
+    validations:
+      required: true
+  - type: input
+    id: audience
+    attributes:
+      label: 准备为谁解决？
+    validations:
+      required: true
+  - type: textarea
+    id: approach
+    attributes:
+      label: 大致怎么做？
+  - type: textarea
+    id: risks
+    attributes:
+      label: 有哪些医疗、隐私或维护风险？
+

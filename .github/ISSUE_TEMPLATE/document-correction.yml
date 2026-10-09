@@ -1,0 +1,27 @@
+name: 文档修正
+description: 报告已经确认的错误、失效来源或表述问题
+title: "[文档] "
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: 请勿提交病历或其他可识别的患者信息。一般讨论和新想法请使用 Discussions。
+  - type: input
+    id: location
+    attributes:
+      label: 内容位置
+      placeholder: 页面链接或文件路径
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 需要修正什么？
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: 可核验来源（如适用）
+

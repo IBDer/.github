@@ -1,0 +1,24 @@
+title: "[患者需求] "
+labels:
+  - patient-need
+body:
+  - type: markdown
+    attributes:
+      value: 请不要发布姓名、联系方式、病历、检查单或其他可识别信息。这里不提供诊断或用药建议。
+  - type: textarea
+    id: problem
+    attributes:
+      label: 你遇到了什么问题？
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 你现在是怎么处理的？
+  - type: textarea
+    id: help
+    attributes:
+      label: 你希望得到什么帮助？
+    validations:
+      required: true
+

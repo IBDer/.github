@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: "Medical or emergency help / 医疗或紧急帮助"
-    url: "https://github.com/IBDer/.github/blob/main/SUPPORT.md"
-    about: "IBDer cannot provide diagnosis, treatment advice, or emergency assistance. / IBDer 不提供诊断、治疗建议或紧急援助。"
+  - name: 社区讨论与患者需求
+    url: https://github.com/orgs/IBDer/discussions
+    about: 请在 Discussions 中分享需求、经历或工具想法。
 
