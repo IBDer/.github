@@ -1,7 +1,7 @@
 **简体中文** · [English](README.en.md)
 
 <p align="center">
-  <img src="./assets/ibder-profile-banner.jpg" alt="IBDer — 为 IBD 患者共建开放工具与可信研究。" width="100%" />
+  <img src="./assets/ibder-profile-banner.jpg" alt="IBDer — 为 IBD 患者共建开放工具与可信研究。" width="80%" />
 </p>
 
 <div align="center">
