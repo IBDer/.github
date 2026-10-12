@@ -6,3 +6,9 @@
 
 不得将可识别的患者信息、医疗记录或私密讨论提交给第三方 AI 服务。示例和测试数据必须使用合成或充分去标识的数据。
 
+## 适用范围
+
+本规则约束的是 **IBDer 的公开协作面**（公开仓库、Discussions、Issue、Pull Request），**不构成 App 的隐私政策**，也不描述 App 内的数据处理方式。
+
+App 侧的数据边界（本地优先、最小收集、不把健康内容上报给崩溃或分析 SDK、只用合成测试数据）记录在 [IBDer/IBDer](https://github.com/IBDer/IBDer) 的 AGENTS.md 与 ADR 中；面向用户的隐私政策随 App 发布另行起草。
+
