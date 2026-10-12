@@ -20,6 +20,8 @@ From trustworthy research and policy information to the incubating IBDer App and
 | --- | --- | --- |
 | [Research](https://github.com/IBDer/research) | Traceable research updates, evidence, and regional policy information | Building |
 | [IBDer App](https://github.com/IBDer/IBDer) | A journal for food, medication, symptoms, and care events | Incubating |
+
+> Descriptions above are **long-term directions**, not the scope of any released or currently planned version. Version scope is defined by the spec and ADRs in each repository.
 | Open tools | Reusable tools shaped by real patient needs | Planned |
 
 ## Boundaries
@@ -27,6 +29,8 @@ From trustworthy research and policy information to the incubating IBDer App and
 IBDer is an independent, patient co-built open-source community. It is not affiliated with a hospital, pharmaceutical company, or commercial organization. We do not provide diagnosis, individualized treatment advice, telemedicine, or emergency services, and we do not publish identifiable patient information.
 
 Community content cannot replace professional medical advice. Contact local emergency services in an emergency.
+
+The statements above are IBDer's **public commitments**. The internal capability boundary of the product is recorded in the ADRs of [IBDer/IBDer](https://github.com/IBDer/IBDer). Where the two conflict, these public commitments prevail.
 
 ## Participate
 
